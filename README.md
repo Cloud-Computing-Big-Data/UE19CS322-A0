@@ -3,8 +3,6 @@
 
 This is the zero'th assignment for the UE19CS322 Big Data Course at PES University. The assignment consists of a single task and focuses on running a MapReduce job to count the number of words in a text file. This is an **ungraded but mandatory** assignment used to test your installation of Hadoop and does not involve writing any code.
 
-The link to all the files required for the assignment can be found [here](https://github.com/Cloud-Computing-Big-Data/UE19CS322-A0).
-
 ## Assignment Objectives and Outcomes 
 1. This assignment will help the student install and setup Hadoop. 
 2. At the end of this assignment, the student will be able to view their VM configuration and setup Hadoop for further assignments.

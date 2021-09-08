@@ -1,0 +1,13 @@
+{
+    "ass_id": "A0",
+    "team_id": "BD_1_2_3_4",
+    "username": "ADITEYA",
+    "ip_address": "172.22.0.78",
+    "mac_address": "00:15:5d:bb:01:30",
+    "ram": 15934,
+    "cpu_cores": 8,
+    "os": "",
+    "marks": 1,
+    "message": "Hadoop has been successfully installed and configured",
+    "output": "221"
+}

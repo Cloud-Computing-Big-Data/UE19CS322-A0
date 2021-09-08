@@ -1,5 +1,10 @@
-output
 .vscode
 __pycache__
+venv
+
+src/generateCredentials.py
+
+credentials*
+team_details*
 mapper.py
 reducer.py
